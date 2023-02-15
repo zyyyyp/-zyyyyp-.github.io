@@ -1,15 +1,7 @@
 
 ## test ()
 
-Center for Mathematical Sciences, (the Wuhan math center)
-
-Huazhong University of Science and Technology
-
-1037 Luoyu Road,
-
-Wuhan, China
-
-Email: 2019010151(at)hust(dot)edu(dot)cn
+Center 
 
 
 ## Personal information
